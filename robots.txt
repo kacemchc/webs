@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kacemchc.github.io/webs/sitemap.xml
